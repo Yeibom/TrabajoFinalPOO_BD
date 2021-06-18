@@ -1,2 +1,8 @@
 # TrabajoFinalPOO_BD
-PROYECTO PROGRAMACION ORIENTADA A OBJETOS
+
+Integrantes:
+- Juan de la Cruz
+- Steve Espinoza
+- Manuel Ríos
+
+*Proyecto Programación Orientada a Objetos (Trabajo Final):
