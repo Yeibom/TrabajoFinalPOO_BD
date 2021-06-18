@@ -6,3 +6,6 @@ Integrantes:
 - Manuel Ríos
 
 *Proyecto Programación Orientada a Objetos (Trabajo Final)
+Cliente y Producto / Juan
+Comprar y Principal / Manuel
+Venta y Proovedor / Steve
