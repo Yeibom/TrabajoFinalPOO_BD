@@ -5,4 +5,4 @@ Integrantes:
 - Steve Espinoza
 - Manuel Ríos
 
-*Proyecto Programación Orientada a Objetos (Trabajo Final):
+*Proyecto Programación Orientada a Objetos (Trabajo Final)
